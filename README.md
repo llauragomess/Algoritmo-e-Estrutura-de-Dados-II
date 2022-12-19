@@ -1,4 +1,4 @@
-# Algoritmo-e-Estrutura-de-Dados-II::computer::book::mortar_board:
+# Algoritmo e Estrutura de Dados II::computer::book::mortar_board:
 
 Este repositório tem por objetivo guardar os trabalhos que foram desenvolvidos na disciplina de Algoritmos e Estrutura de Dados II, onde foi lecionado os seguintes conceitos:
 
